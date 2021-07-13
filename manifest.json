@@ -1,0 +1,20 @@
+{
+  "name": "Coras Token List",
+  "timestamp": "2021-07-13T13:21:17.241Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
+  "keywords": ["blockchain", "coras"],
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x22CfC8e7dfC8eE0D1d6F9119413Ba4c62a158c8E",
+      "name": "Juno",
+      "symbol": "JUNO",
+      "decimals": 18
+    }
+}
