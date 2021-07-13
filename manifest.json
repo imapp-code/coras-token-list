@@ -16,6 +16,13 @@
       "name": "Juno",
       "symbol": "JUNO",
       "decimals": 18
+    },
+    {
+      "chainId": 4,
+      "address": "0xeb8f08a975ab53e34d8a0330e0d34de942c95926",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6
     }
   ]
 }
